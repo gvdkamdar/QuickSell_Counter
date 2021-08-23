@@ -1,0 +1,32 @@
+.main-container {
+  display: flex;
+  height: 56px;
+  margin: 37px 39px 37px 38px;
+}
+.decrease-btn {
+  padding: 14px 27px 13px 26px;
+  border: 1px solid #b24242;
+  border-radius: 8px 0 0 8px;
+  font-size: 21px;
+  font-weight: 900;
+}
+.input-field {
+  height: 52px;
+  background-color: #fbe8e8;
+  border: 1px solid #b24242;
+  padding: 1px;
+  width: 60px;
+  text-align: center;
+  color: #b24242;
+  font-size: 21px;
+  border-left: 0;
+  border-right: 0;
+}
+.add-btn {
+  padding: 14px 23px 13px 23px;
+  border: 1px solid #b24242;
+  border-radius: 0px 8px 8px 0px;
+  font-size: 21px;
+  background-color: #b24242;
+  color: #fff;
+}
